@@ -1,5 +1,4 @@
 # llama-stack-client-swift
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/llama-stack-client-swift&type=Date)](https://star-history.com/#rudrankriyam/llama-stack-client-swift&Date)
 
 
 [![Discord](https://img.shields.io/discord/1257833999603335178)](https://discord.gg/llama-stack)
@@ -57,3 +56,5 @@ That spec is synced to this repo via a git submodule and script. We'll typically
 git submodule update --init --recursive
 scripts/generate_swift_types.sh
 ```
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/llama-stack-client-swift&type=Date)](https://star-history.com/#rudrankriyam/llama-stack-client-swift&Date)
